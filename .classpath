@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/selenium-server-standalone-3.0.0-beta4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/H2/Desktop/Selenium Libraries/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/SpiraTestListener/TestNGListener.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

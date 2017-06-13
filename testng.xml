@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Default suite">
+<listeners> 
+	<listener class-name="com.inflectra.spiratest.addons.testnglistener.SpiraTestListener"/>
+</listeners>
+  <test verbose="2" name="Default test" parallel="false">
+    <classes>
+      <class name="psbankTestCases.PSBankTestCases">
+      <methods>
+             <exclude name="IncorrectAccountName"/>
+        	 <exclude name="IncorrectAccountNumber"/>
+        	 <exclude name="AutoLoanCalc"/>
+        	 <include name="HomeLoanCalc"/>
+        	 
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
